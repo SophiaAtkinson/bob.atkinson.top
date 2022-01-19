@@ -1,5 +1,5 @@
-# Robert James Atkinson Jr.
-## OCTOBER 10, 1944 – SEPTEMBER 12, 2013
+<center><h1>Robert James Atkinson Jr.<h1>
+<h2>OCTOBER 10, 1944 – SEPTEMBER 12, 2013<h2>
 
-<center><img alt="PC GIF" src="/img/bob.jpg" width="256" /></center>
+<img alt="PC GIF" src="/img/bob.jpg" width="256" /></center>
 
